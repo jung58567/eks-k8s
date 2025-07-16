@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: music-namespace
+  labels:
+    name: music-namespace 
